@@ -1,0 +1,4 @@
+{"id":"8fcfe082-24bd-428d-9b8c-7da4dfef2deb", "device_sn": "s1", "download_bytes": 250, "upload_bytes":500, "session_start_time": 1573077384}
+{"id":"ab31dff4-bf40-4cd7-a47c-68aa442c53f7", "device_sn": "s1", "download_bytes": 300, "upload_bytes":50, "session_start_time": 1573077390}
+{"id":"6bc421bd-c3aa-498f-ab31-7f02f19f8a6c", "device_sn": "s2", "download_bytes": 128, "upload_bytes":520, "session_start_time": 1573077394}
+{"id":"c9dbf13d-56dd-42ee-8510-ff5dac680e19", "device_sn": "s2", "download_bytes": 212, "upload_bytes":75, "session_start_time": 1573077480}
